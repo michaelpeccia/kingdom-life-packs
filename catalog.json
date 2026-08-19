@@ -32,5 +32,12 @@
    "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/matthew.json",
    "packFormat": 1
   }
- ]
+ ],
+ "app": {
+  "version": "1.0",
+  "versionCode": 1,
+  "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/app/kingdom-life-study.apk",
+  "bytes": 10589823,
+  "sha256": "991247ae8d4da7ff"
+ }
 }
