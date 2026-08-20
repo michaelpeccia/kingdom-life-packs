@@ -18,6 +18,21 @@
    "packFormat": 1
   },
   {
+   "id": "malachi",
+   "title": "Malachi",
+   "translation": "WEB",
+   "version": 1,
+   "chapters": 4,
+   "verses": 55,
+   "footnotes": 51,
+   "bytes": 91615,
+   "sha256": "29d90dc4ed466f5d",
+   "file": "malachi.json",
+   "hasStrongs": false,
+   "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/malachi.json",
+   "packFormat": 1
+  },
+  {
    "id": "matthew",
    "title": "Matthew",
    "translation": "WEB",
