@@ -49,10 +49,10 @@
   }
  ],
  "app": {
-  "version": "1.2",
-  "versionCode": 3,
+  "version": "1.3",
+  "versionCode": 4,
   "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/app/kingdom-life-study.apk",
-  "bytes": 10592768,
-  "sha256": "fd09d34f4160a747"
+  "bytes": 10593512,
+  "sha256": "d10d395c84b7ca0b"
  }
 }
