@@ -33,17 +33,32 @@
    "packFormat": 1
   },
   {
+   "id": "mark",
+   "title": "Mark",
+   "translation": "WEB",
+   "version": 2,
+   "chapters": 16,
+   "verses": 678,
+   "footnotes": 204,
+   "bytes": 475998,
+   "sha256": "84233d7874970b6f",
+   "file": "mark.json",
+   "hasStrongs": true,
+   "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/mark.json",
+   "packFormat": 1
+  },
+  {
    "id": "matthew",
    "title": "Matthew",
    "translation": "WEB",
-   "version": 1,
+   "version": 2,
    "chapters": 28,
    "verses": 1071,
    "footnotes": 327,
-   "bytes": 623450,
-   "sha256": "3ea806bcd3e23b13",
+   "bytes": 733211,
+   "sha256": "1c435a8959a8466b",
    "file": "matthew.json",
-   "hasStrongs": false,
+   "hasStrongs": true,
    "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/matthew.json",
    "packFormat": 1
   }
