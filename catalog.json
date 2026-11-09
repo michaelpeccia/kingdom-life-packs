@@ -18,6 +18,36 @@
    "packFormat": 1
   },
   {
+   "id": "john",
+   "title": "John",
+   "translation": "WEB",
+   "version": 1,
+   "chapters": 21,
+   "verses": 879,
+   "footnotes": 291,
+   "bytes": 538037,
+   "sha256": "da15ddd7fb64a50c",
+   "file": "john.json",
+   "hasStrongs": false,
+   "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/john.json",
+   "packFormat": 1
+  },
+  {
+   "id": "luke",
+   "title": "Luke",
+   "translation": "WEB",
+   "version": 2,
+   "chapters": 24,
+   "verses": 1151,
+   "footnotes": 299,
+   "bytes": 777306,
+   "sha256": "33ac03ea9acba821",
+   "file": "luke.json",
+   "hasStrongs": true,
+   "url": "https://raw.githubusercontent.com/michaelpeccia/kingdom-life-packs/main/packs/luke.json",
+   "packFormat": 1
+  },
+  {
    "id": "malachi",
    "title": "Malachi",
    "translation": "WEB",
